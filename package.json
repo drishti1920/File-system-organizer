@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "bin": "^0.0.0",
+    "fs": "^0.0.1-security"
+  },
+  "bin": {
+    "peppy": "main.js"
+  }
+
+}
